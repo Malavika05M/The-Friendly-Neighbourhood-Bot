@@ -1,9 +1,5 @@
 # The Friendly Neighbourhood Bot
 
-Discord Bot Development Task: The Friendly Neighborhood Bot
-
-The Story: A Friendly Neighborhood Bot for Midtown Tech
-
 The bustling online community of Midtown Tech (your Discord server) is a vibrant hub for brilliant young minds, much like the students of Peter Parker's own high school. Here, aspiring heroes of code share their discoveries, collaborate on groundbreaking projects, and even unwind with friendly banter. However, even in a neighborhood as friendly as Midtown, chaos can creep in. Misplaced messages, forgotten announcements, and the occasional "Goblin" (read: troll) attempting to disrupt the peace threaten the very order of this digital city.
 
 Just as Spider-Man swings through the streets of New York, protecting its citizens, Midtown Tech needs its own friendly neighborhood guardian. The faculty, overwhelmed by the sheer volume of activity, has put out a call for innovative solutions. Your mission, young developer, is to construct the core intelligence of a new kind of "Friendly Neighborhood Bot". This bot will not only help maintain order and keep the digital streets clean but also empower the community to better organize their knowledge and interactions, ensuring Midtown Tech remains a safe and inspiring place for all.
